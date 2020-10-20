@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DisclosureSystems  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+      xsi:noNamespaceSchemaLocation="../../../config/disclosuresystems.xsd" >
+  <!-- see ../config/disclosuresystem.xml for full comments -->
+
+  <DisclosureSystem 
+     names="ESMA RTS on ESEF|ESEF|esef"
+     description="ESMA RTS on ESEF Validation Checks"
+     validationType="ESEF"
+	 exclusiveTypesPattern="EFM|GFM|HMRC|SBR.NL|EBA|EIOPA|ESEF"
+     blockDisallowedReferences="false" 
+     validateFileText="false"
+     contextElement="scenario" 
+     />
+
+
+</DisclosureSystems>

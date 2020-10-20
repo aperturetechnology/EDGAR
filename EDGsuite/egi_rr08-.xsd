@@ -1,0 +1,4 @@
+<schema attributeFormDefault='unqualified' elementFormDefault='qualified' xmlns='http://www.w3.org/2001/XMLSchema'>
+	<import schemaLocation='http://xbrl.us/us-gaap/1.0/non-gaap/dei-ent-2008-03-31.xsd' namespace='http://xbrl.us/dei-ent/2008-03-31'/>
+	<import schemaLocation='http://taxonomies.xbrl.us/rr/2008/rr-all-2008-12-31.xsd' namespace='http://xbrl.us/rr-all/2008-12-31'/>
+</schema>

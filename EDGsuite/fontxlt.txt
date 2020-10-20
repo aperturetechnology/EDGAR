@@ -1,0 +1,12 @@
+Courier | Courier New
+Courier Bold | Courier New | B
+Courier Oblique | Courier New | I
+Courier Bold Oblique | Courier New | BI
+Helvetica | Arial
+Helvetica Bold | Arial | B
+Helvetica Oblique | Arial | I
+Helvetica Bold Oblique | Arial | BI
+Times Roman | Times New Roman
+Times Roman Bold | Times New Roman | B
+Times Roman Italic | Times New Roman | I
+Times Roman Bold Italic | Times New Roman | BI

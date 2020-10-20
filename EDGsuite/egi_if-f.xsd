@@ -1,0 +1,10 @@
+<schema attributeFormDefault='unqualified' elementFormDefault='qualified'
+	xmlns='http://www.w3.org/2001/XMLSchema'
+	xmlns:link='http://www.xbrl.org/2003/linkbase'
+	xmlns:us-types='http://xbrl.us/us-types/2009-01-31'
+	xmlns:xbrldt='http://xbrl.org/2005/xbrldt'
+	xmlns:xbrli='http://www.xbrl.org/2003/instance'
+	xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <import schemaLocation='http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd' namespace='http://www.xbrl.org/2003/instance'/>
+	<import schemaLocation='http://xbrl.iasb.org/taxonomy/2010-04-30/full_entry_point_2010-04-30.xsd' namespace='http://xbrl.iasb.org/taxonomy/2010-04-30/ifrs/full_entry_point'/>
+</schema>

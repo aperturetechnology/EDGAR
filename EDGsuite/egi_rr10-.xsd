@@ -1,0 +1,3 @@
+<schema attributeFormDefault='unqualified' elementFormDefault='qualified' xmlns='http://www.w3.org/2001/XMLSchema'>
+	<import schemaLocation='http://xbrl.sec.gov/rr/2010/rr-entire-2010-02-28.xsd'/>
+</schema>
